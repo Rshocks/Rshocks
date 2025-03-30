@@ -3,7 +3,7 @@
 🚀 I’m currently developing a simulated IoT warehouse using AWS.  
 🤝 I’m looking to collaborate on any projects as I love to learn new things or even reaffirm current skills.  
 🛠️ Ask me about software testing, product management, and API integrations.  
-📖 I’m currently learning cloud architecture with AWS and trying my hand at RUST.  
+📖 I’m currently learning cloud architecture with AWS and trying my hand at Rust.  
 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronan-shaughnessy-1b2570225/)  
 ☕ Fun fact: I clear my mind by running or sitting down watching sport with a cup of tea.  
 
